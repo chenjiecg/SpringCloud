@@ -11,7 +11,8 @@ spring:
       server:
         git:
           uri: https://github.com/chenjiecg/SpringCloud/
-          searchPaths: respo
+          searchPaths: springcloud-config/config-repo
           username: 
           password: 
       label: master
+      
